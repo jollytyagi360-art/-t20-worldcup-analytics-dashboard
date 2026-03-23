@@ -1,0 +1,31 @@
+match_id,date,stage,venue,team1,team2,team1_runs,team2_runs,winner,margin_runs,margin_wickets,player_of_match,toss_winner,toss_decision
+1,2021-10-24,Group,Dubai,India,Pakistan,151,152,Pakistan,0,10,Babar Azam,Pakistan,Field
+2,2021-10-26,Group,Dubai,Pakistan,New Zealand,135,134,Pakistan,1,0,Asif Ali,New Zealand,Bat
+3,2021-10-31,Group,Dubai,India,New Zealand,110,111,New Zealand,0,8,Ish Sodhi,New Zealand,Field
+4,2021-11-05,Group,Sharjah,India,Scotland,89,90,Scotland,0,6,Ritchie Berrington,India,Bat
+5,2022-10-23,Group,Melbourne,India,Pakistan,160,159,India,1,0,Virat Kohli,India,Field
+6,2022-10-27,Group,Sydney,India,Netherlands,179,123,India,56,0,Suryakumar Yadav,India,Bat
+7,2022-10-30,Group,Perth,India,South Africa,133,137,South Africa,0,5,Lungi Ngidi,South Africa,Field
+8,2022-11-02,Group,Adelaide,India,Bangladesh,184,145,India,39,0,KL Rahul,Bangladesh,Field
+9,2022-11-10,Semi Final,Adelaide,India,England,168,170,England,0,10,Alex Hales,England,Field
+10,2022-11-13,Final,Melbourne,Pakistan,England,137,138,England,0,5,Sam Curran,England,Field
+11,2024-06-02,Group,Dallas,USA,Canada,197,194,USA,3,0,Aaron Jones,Canada,Field
+12,2024-06-05,Group,New York,India,Ireland,96,97,Ireland,0,7,Curtis Campher,Ireland,Field
+13,2024-06-09,Group,New York,India,Pakistan,119,113,India,6,0,Jasprit Bumrah,Pakistan,Field
+14,2024-06-15,Group,Florida,USA,Ireland,130,130,No Result,0,0,,USA,Field
+15,2024-06-20,Super 8,Barbados,India,Afghanistan,181,134,India,47,0,Suryakumar Yadav,Afghanistan,Field
+16,2024-06-22,Super 8,Antigua,India,Bangladesh,196,146,India,50,0,Hardik Pandya,Bangladesh,Field
+17,2024-06-24,Super 8,St Lucia,India,Australia,205,181,India,24,0,Rohit Sharma,Australia,Field
+18,2024-06-27,Semi Final,Guyana,India,England,171,103,India,68,0,Axar Patel,England,Field
+19,2024-06-29,Final,Barbados,India,South Africa,176,169,India,7,0,Virat Kohli,India,Bat
+20,2021-10-20,Group,Abu Dhabi,England,West Indies,56,55,England,1,0,Adil Rashid,England,Field
+21,2021-10-23,Group,Abu Dhabi,Australia,South Africa,119,118,Australia,1,0,Josh Hazlewood,South Africa,Field
+22,2021-11-11,Semi Final,Abu Dhabi,England,New Zealand,166,167,New Zealand,0,5,Daryl Mitchell,New Zealand,Field
+23,2021-11-14,Final,Dubai,Australia,New Zealand,173,172,Australia,1,0,Mitchell Marsh,New Zealand,Bat
+24,2022-10-16,Group,Geelong,Namibia,Sri Lanka,163,108,Namibia,55,0,Jan Frylinck,Sri Lanka,Field
+25,2022-10-21,Group,Hobart,West Indies,Ireland,146,150,Ireland,0,9,Paul Stirling,West Indies,Bat
+26,2022-10-25,Group,Perth,Australia,Sri Lanka,158,157,Australia,1,0,Marcus Stoinis,Australia,Field
+27,2022-10-28,Group,Sydney,England,Australia,179,180,Australia,0,6,Glenn Maxwell,England,Field
+28,2024-06-08,Group,New York,Netherlands,South Africa,103,106,South Africa,0,4,David Miller,South Africa,Field
+29,2024-06-11,Group,New York,Pakistan,Canada,107,109,Canada,0,5,Nicholas Kirton,Pakistan,Bat
+30,2024-06-13,Group,Lauderhill,USA,India,111,112,India,0,8,Rishabh Pant,USA,Bat
